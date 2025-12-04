@@ -2,7 +2,6 @@
 
 A real-time network monitoring dashboard that tracks website and server health with beautiful visualizations and comprehensive analytics.
 
-![Network Health Checker Dashboard](https://via.placeholder.com/800x400/0f172a/3b82f6?text=Network+Health+Dashboard)
 
 ## ✨ Features
 
