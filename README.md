@@ -199,9 +199,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**TheGhostPacket**
-- GitHub: [@TheGhostPacket](https://github.com/TheGhostPacket)
-- LinkedIn: [Nhyira Yanney](https://www.linkedin.com/in/nhyira-yanney-b19898178)
+
 - Email: contact@theghostpacket.com
 
 ---
